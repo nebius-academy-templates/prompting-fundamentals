@@ -1,0 +1,101 @@
+{
+    "exam_info": {
+        "exam_name": "Mathematics Quiz - Unit 3",
+        "total_questions": 10,
+        "date": "2024-03-15"
+    },
+    "answer_key": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "A",
+        "B",
+        "C",
+        "A",
+        "D",
+        "B"
+    ],
+    "students": [
+        {
+            "student_id": "STU001",
+            "student_name": "Emma Thompson",
+            "answers": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "A",
+                "B",
+                "C",
+                "A",
+                "D",
+                "B"
+            ]
+        },
+        {
+            "student_id": "STU002",
+            "student_name": "James Wilson",
+            "answers": [
+                "A",
+                "C",
+                "C",
+                "D",
+                "B",
+                "B",
+                "C",
+                "A",
+                "D",
+                "A"
+            ]
+        },
+        {
+            "student_id": "STU003",
+            "student_name": "Sophia Martinez",
+            "answers": [
+                "B",
+                "B",
+                "C",
+                "A",
+                "A",
+                "A",
+                "D",
+                "A",
+                "C",
+                "B"
+            ]
+        },
+        {
+            "student_id": "STU004",
+            "student_name": "Liam Chen",
+            "answers": [
+                "A",
+                "B",
+                "B",
+                "D",
+                "A",
+                "B",
+                "C",
+                "B",
+                "D",
+                "B"
+            ]
+        },
+        {
+            "student_id": "STU005",
+            "student_name": "Olivia Johnson",
+            "answers": [
+                "A",
+                "A",
+                "C",
+                "C",
+                "A",
+                "C",
+                "C",
+                "A",
+                "A",
+                "C"
+            ]
+        }
+    ]
+}
