@@ -1,0 +1,49 @@
+character_name,spell_cast,damage_dealt,damage_taken,healing_done,battle_id,timestamp
+Aragorn,Sword Strike,45,12,0,1,2024-01-15 10:30:00
+Gandalf,Fireball,78,5,0,1,2024-01-15 10:30:15
+Legolas,Arrow Shot,62,8,0,1,2024-01-15 10:30:30
+Gimli,Axe Swing,55,18,0,1,2024-01-15 10:30:45
+Aragorn,Healing Potion,0,0,25,1,2024-01-15 10:31:00
+Gandalf,Lightning Bolt,92,0,0,1,2024-01-15 10:31:15
+Legolas,Double Shot,74,3,0,1,2024-01-15 10:31:30
+Gimli,Shield Bash,28,7,0,1,2024-01-15 10:31:45
+Boromir,Sword Slash,41,15,0,2,2024-01-15 11:15:00
+Frodo,Ring Power,85,22,0,2,2024-01-15 11:15:15
+Sam,Courage Strike,33,6,0,2,2024-01-15 11:15:30
+Merry,Sneak Attack,38,4,0,2,2024-01-15 11:15:45
+Pippin,Lucky Shot,29,8,0,2,2024-01-15 11:16:00
+Boromir,Horn of Gondor,0,0,35,2,2024-01-15 11:16:15
+Frodo,Sting Strike,47,11,0,2,2024-01-15 11:16:30
+Sam,Frying Pan Bash,52,9,0,2,2024-01-15 11:16:45
+Aragorn,Ranger Strike,58,14,0,3,2024-01-15 14:22:00
+Gandalf,Staff Strike,35,8,0,3,2024-01-15 14:22:15
+Legolas,Precision Shot,89,2,0,3,2024-01-15 14:22:30
+Gimli,Berserker Rage,94,25,0,3,2024-01-15 14:22:45
+Aragorn,First Aid,0,0,40,3,2024-01-15 14:23:00
+Gandalf,Meteor Strike,156,12,0,3,2024-01-15 14:23:15
+Legolas,Multi-Shot,67,5,0,3,2024-01-15 14:23:30
+Gimli,War Cry,0,0,20,3,2024-01-15 14:23:45
+Thorin,Hammer Throw,71,16,0,4,2024-01-15 16:45:00
+Dwalin,Dual Strike,63,13,0,4,2024-01-15 16:45:15
+Balin,Wisdom Boost,0,0,30,4,2024-01-15 16:45:30
+Bofur,Surprise Attack,44,7,0,4,2024-01-15 16:45:45
+Thorin,Arkenstone Power,98,20,0,4,2024-01-15 16:46:00
+Dwalin,Shield Wall,15,2,0,4,2024-01-15 16:46:15
+Balin,Ancient Knowledge,0,0,45,4,2024-01-15 16:46:30
+Bofur,Mining Strike,59,11,0,4,2024-01-15 16:46:45
+Galadriel,Starlight,103,0,0,5,2024-01-15 19:10:00
+Elrond,Elven Magic,87,4,0,5,2024-01-15 19:10:15
+Arwen,Swift Strike,56,9,0,5,2024-01-15 19:10:30
+Thranduil,Forest Command,72,6,0,5,2024-01-15 19:10:45
+Galadriel,Mirror Vision,0,0,50,5,2024-01-15 19:11:00
+Elrond,Healing Light,0,0,60,5,2024-01-15 19:11:15
+Arwen,Undómiel Strike,81,7,0,5,2024-01-15 19:11:30
+Thranduil,Woodland Realm,65,3,0,5,2024-01-15 19:11:45
+Sauron,Dark Strike,134,8,0,6,2024-01-15 21:30:00
+Saruman,White Lightning,98,5,0,6,2024-01-15 21:30:15
+Witch-King,Nazgûl Scream,76,12,0,6,2024-01-15 21:30:30
+Gothmog,Orc Commander,54,18,0,6,2024-01-15 21:30:45
+Sauron,One Ring Power,189,15,0,6,2024-01-15 21:31:00
+Saruman,Staff of Power,112,9,0,6,2024-01-15 21:31:15
+Witch-King,Morgul Blade,88,6,0,6,2024-01-15 21:31:30
+Gothmog,Orc Fury,67,14,0,6,2024-01-15 21:31:45 
